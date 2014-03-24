@@ -1,6 +1,6 @@
-name:          Code Guide by @mdo
+name:          Code Guide
 description:   Standards for developing flexible, durable, and sustainable HTML and CSS.
-url:           http://mdo.github.com/code-guide
+url:           http://MosaicDigital.github.com/code-guide
 
 markdown:      rdiscount
 permalink:     pretty
